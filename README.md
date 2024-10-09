@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**A163r70/A163r70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## **Alberto**
+![Team Retro Professional Docs Banner in Green Pastel Purple Playful Abstract Style](https://github.com/user-attachments/assets/73cd6cc3-b6c8-4813-bf0a-1f4b89a5f0e5)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
