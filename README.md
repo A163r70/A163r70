@@ -1,12 +1,22 @@
 ## **Alberto**
 ![Team Retro Professional Docs Banner in Green Pastel Purple Playful Abstract Style](https://github.com/user-attachments/assets/73cd6cc3-b6c8-4813-bf0a-1f4b89a5f0e5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Alberto</h1>
+<h3 align="center">I am a student with a thirst to learn new things</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a163r70&label=Profile%20views&color=0e75b6&style=flat" alt="a163r70" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/j_alberrto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j_alberrto" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a163r70&show_icons=true&locale=en&layout=compact" alt="a163r70" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a163r70&show_icons=true&locale=en" alt="a163r70" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a163r70&" alt="a163r70" /></p>
+
