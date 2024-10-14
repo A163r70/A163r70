@@ -1,7 +1,7 @@
 ## **Hey👋, soy Alberto**
 ![Team Retro Professional Docs Banner in Green Pastel Purple Playful Abstract Style](https://github.com/user-attachments/assets/73cd6cc3-b6c8-4813-bf0a-1f4b89a5f0e5)
 
-<h3 align="center">Soy un estudiante con sed de aprender nuevas cosas</h3>
+<h3 align="center">Soy un estudiante de la UNSIJ con sed de aprender nuevas cosas, me gustaría aprender más lenguajes de programación de los que relativamente ya sé.</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> </p>
